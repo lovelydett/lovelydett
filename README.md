@@ -1,11 +1,12 @@
-- 🔭 I’m currently working on Autonomous Driving
-- 🌱 I’m currently learning Autonomous Driving
-- 👯 I’m looking to collaborate on Autonomous Driving
-- 🤔 I’m looking for help with Autonomous Driving
-- 💬 Ask me about Autonomous Driving
-- 📫 How to reach me: take an Autonomous Driving Vehicle
-- 😄 Pronouns: Autonomous Driving
-- ⚡ Fun fact: I hate Autonomous Driving
+- 💞 Just got married to the most beautiful girl in this universe, so no more Autonomous Driving.
+- (deprecated) 🔭 I’m currently working on Autonomous Driving
+- (deprecated)🌱 I’m currently learning Autonomous Driving
+- (deprecated)👯 I’m looking to collaborate on Autonomous Driving
+- (deprecated)🤔 I’m looking for help with Autonomous Driving
+- (deprecated)💬 Ask me about Autonomous Driving
+- (deprecated)📫 How to reach me: take an Autonomous Driving Vehicle
+- (deprecated)😄 Pronouns: Autonomous Driving
+- (recommended) ⚡ Fun fact: I hate Autonomous Driving
 
 <!--
 **lovelydett/lovelydett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
